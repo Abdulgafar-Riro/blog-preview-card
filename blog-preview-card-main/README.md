@@ -29,8 +29,8 @@ This is a solution to the [Blog Preview Card Component Challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution link here](#)
-- Live Site URL: [Add live site link here](#)
+- Solution URL: [https://webmujahid-blog-preview-card.netlify.app/](#)
+- Live Site URL: [https://webmujahid-blog-preview-card.netlify.app/](#)
 
 ---
 
