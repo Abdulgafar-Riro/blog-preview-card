@@ -57,14 +57,21 @@
     line-height: 1.5rem;
   }
 
-  .title {
+  .blog-container .title {
     background-color: var(--Yellow);
-    margin: 1.2rem 0 0.8rem 0;
+    color: bar(--Gray950);
+    margin: 1.2rem 0 0.7rem 0;
     padding: 0.3rem 0.7rem;
     border-radius: 0.3rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-family: 'Figtree', sans-serif;
     font-weight: 800;
+  }
+
+  .blog-container .date {
+    color: bar(--Gray950);
+    font-size: 0.87rem;
+    font-weight: bold;
   }
 
   .header {
@@ -97,8 +104,8 @@
     margin: 1.5rem 0 0.5rem 0; 
   }
 
-.author-section h3 {
-    font-size: 0.8rem;
+.author-section h2 {
+    font-size: 0.9rem;
     font-family: 'Figtree', sans-serif;
     font-weight: 800;
 }
